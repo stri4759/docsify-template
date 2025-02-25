@@ -1,9 +1,11 @@
-# Docsify Template
 
-> A simple [Docsify](https://github.com/docsifyjs/docsify/) template for creating Markdown-based documentation sites, with no build process required.
 
-## Site Setup
+## The Basics
+3D printing is a process where objects are built layer by layer by adding or bonding material. It allows for the creation of intricate designs, making it useful in many manufacturing applications. The cost of 3D printers varies widely, from a few hundred to several million dollars, depending on the technology used.
 
+![logo](/_media/bambu_lab_x1e-1.png ':size=30%')
+![logo](/_media/elegoocenturi.jpg ':size=30%')
+![logo](/_media/k1c.png ':size=30%')
 ### Static Webserver
 Upload these template files to any static web server. The file `.nojekyll` is only required if hosting the site on GitHub Pages and otherwise can be removed.
 
